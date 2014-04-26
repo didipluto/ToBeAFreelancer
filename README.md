@@ -1,4 +1,4 @@
 ToBeAFreelancer
 ===============
 
-Record how I can be a freelancer finally.
+Recorded how I can be a freelancer finally.
